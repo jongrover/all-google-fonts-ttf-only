@@ -5,4 +5,4 @@ However, all the fonts are in separate folders with license info etc. :( This is
 
 ## Disclaimer
 
-I DO NOT OWN THESE FONTS! If you want to know the licensing details for each font please refer to the google.fonts.com or the official Google Github repo linked above.
+I DO NOT OWN THESE FONTS! If you want to know the licensing details for each font please refer to https://fonts.google.com or the official Google Github repo linked above.
